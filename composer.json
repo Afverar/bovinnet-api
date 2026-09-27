@@ -1,0 +1,13 @@
+{
+    "name": "sena/bovinnet-api",
+    "description": "API REST del proyecto BovinNet - evidencia GA7-220501096-AA5-EV03",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BovinNet\\": "src/"
+        }
+    }
+}
