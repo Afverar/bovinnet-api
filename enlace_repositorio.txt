@@ -1,0 +1,21 @@
+BovinNet - API REST (servicios web)
+Evidencia GA7-220501096-AA5-EV03
+Autor: Andres Vera
+
+Repositorio remoto sugerido:
+https://github.com/andresvera/bovinnet-api
+
+IMPORTANTE:
+Este proyecto ya se encuentra inicializado como repositorio Git local,
+con su primer commit realizado (ver carpeta .git incluida en este
+comprimido). El enlace anterior es el nombre sugerido para el
+repositorio remoto; debe crearlo en GitHub (o GitLab) con su propia
+cuenta y enlazarlo con los siguientes comandos, ejecutados dentro de
+la carpeta del proyecto:
+
+    git remote add origin https://github.com/SU-USUARIO/bovinnet-api.git
+    git branch -M main
+    git push -u origin main
+
+Una vez realizado el push, reemplace la URL de este archivo por la
+URL real de su repositorio antes de la entrega final.
